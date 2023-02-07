@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    color: #06066d;
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p{
+    text-align: justify;
+}
+small{
+    color: rgb(161, 36, 36);
+    text-decoration: underline;
+}
+#a{
+    text-align: center;
+}
+h2{
+    color: #06066d; 
+}
+img{
+    margin-left: 20px;
+    border-radius: 50%;
+}
+.abc{
+    text-align: center;
+    
+}
+.cox{
+    padding: 5px 10px;
+}
+header{
+    height: 200px;
+    background-image: url('pic/nature\ 1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul li {
+    /* display: inline; */
+}
